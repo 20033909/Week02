@@ -1,4 +1,8 @@
 <resources>
     <string name="message">Have fun with Android!</string>
     <string name="large_text">Large Text</string>
+    <string name="formName">Name: </string>
+    <string name="formPassword">Password: </string>
+    <string name="formLogin">LOGIN</string>
+    <string name="formCancel">CANCEL</string>
 </resources>
