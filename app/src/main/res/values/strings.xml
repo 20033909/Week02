@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="message">Have fun with Android</string>
+    <string name="large_text">Large Text</string>
 </resources>

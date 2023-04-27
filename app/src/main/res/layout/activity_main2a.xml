@@ -11,5 +11,5 @@
         android:layout_height="match_parent"
         android:background="#FFEB3B"
         android:textSize="24sp"
-        android:text="Hello this is Android" />
+        android:text="This is a TextView" />
 </LinearLayout>
